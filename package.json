@@ -1,0 +1,16 @@
+{
+  "name": "reflect-metadata-sample",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "prestart": "yarn && yarn build",
+    "start": "node ./dist/main.js"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
+}
