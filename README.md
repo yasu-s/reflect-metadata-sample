@@ -12,6 +12,7 @@
 ## 使用ライブラリ
 
 * reflect-metadata - 0.1.x
+* TypeScript - 3.7.x
 
 ## URL
 
